@@ -1,0 +1,7 @@
+-e git+https://github.com/zulip/zulip.git@61d5d410675b686be9fa3ac4a0172246b2d772da#egg=zulip&subdirectory=api
+click==6.7
+Flask==0.12.2
+itsdangerous==0.24
+Jinja2==2.9.6
+MarkupSafe==1.0
+Werkzeug==0.12.2
