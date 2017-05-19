@@ -1,5 +1,5 @@
 {
-  "name": "heroku-python-CI-test",
+  "name": "python-ci-test",
   "environments": {
     "test": {
       "scripts": {
