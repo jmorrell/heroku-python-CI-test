@@ -1,3 +1,10 @@
 {
-  "name": "heroku-python-CI-test"
+  "name": "heroku-python-CI-test",
+  "environments": {
+    "test": {
+      "scripts": {
+        "test": "python test.py"
+      }
+    }
+  }
 }
